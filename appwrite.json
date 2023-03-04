@@ -1,6 +1,6 @@
 {
-    "projectId": "appwrite-meetup",
-    "projectName": "appwrite-meetup",
+    "projectId": "6402e74d580ba9dc7e19",
+    "projectName": "Video-chat-app-meetup",
     "collections": [
         {
             "$id": "rooms",
